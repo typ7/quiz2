@@ -1,21 +1,21 @@
 html body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica;
   font-size: 12px;
 }
 
-heade {
+header {
   text-align: center;
 }
 
 h1 {
-  font-weight: boldest;
-  text-deckoration: underlines;
-  boarder: 2px solid darkorange;
+  font-weight: bolder;
+  text-decoration: underline;
+  border: 2px solid darkorange;
   padding: 10px 20px;
 }
 
 .dynamic {
-  disply: none;
+  display: none;
 }
 
 section {
